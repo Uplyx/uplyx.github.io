@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mes ptites conneries",
+    "description": "",
+    "home_page_url": "https://github.com/Uplyx/uplyx.github.io.git",
+    "feed_url": "https://github.com/Uplyx/uplyx.github.io.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Uplyx"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Uplyx/uplyx.github.io.git/test.html",
+            "url": "https://github.com/Uplyx/uplyx.github.io.git/test.html",
+            "title": "test",
+            "summary": " je fais juste un petit test de con&nbsp; ",
+            "content_html": "\n  <p>\n    je fais juste un petit test de con&nbsp;\n  </p>",
+            "author": {
+                "name": "Uplyx"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-13T20:46:23+01:00",
+            "date_modified": "2021-02-13T20:46:23+01:00"
+        }
+    ]
+}

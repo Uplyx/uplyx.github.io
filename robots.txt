@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/Uplyx/uplyx.github.io.git/sitemap.xml
