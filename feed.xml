@@ -3,12 +3,38 @@
     <title>Mes ptites conneries</title>
     <link href="https://Uplyx.github.io/uplyx.github.io/feed.xml" rel="self" />
     <link href="https://Uplyx.github.io/uplyx.github.io" />
-    <updated>2021-02-13T21:23:04+01:00</updated>
+    <updated>2021-02-13T21:36:57+01:00</updated>
     <author>
         <name>Uplyx</name>
     </author>
     <id>https://Uplyx.github.io/uplyx.github.io</id>
 
+    <entry>
+        <title>Présentation générale</title>
+        <author>
+            <name>Uplyx</name>
+        </author>
+        <link href="https://Uplyx.github.io/uplyx.github.io/presentation-generale.html"/>
+        <id>https://Uplyx.github.io/uplyx.github.io/presentation-generale.html</id>
+
+        <updated>2021-02-13T21:36:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Bienvenue à vous sur mon site, First thing first, il faut que je me présente, je m'appelle Uplyx, Grégoire irl, et j'aime tout&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bienvenue à vous sur mon site, </p>
+<p>First thing first, il faut que je me présente, je m'appelle Uplyx, Grégoire irl, et j'aime tout un tas de chose que vous pourrez retrouver sur ce site, de l'électroswing aux jeux vidéos en passant par la politique et la biologie, le tout abordé de manière assez peu sérieuse.</p>
+<p>Il est assez important de noter que je connais absolument rien au code, tout ce site n'est qu'un amas de C/C en tout genre donc si il merde un jour je sais pas si j'aurais les compétences (ou surtout la foi) pour le réparer.</p>
+<p>Je sais déjà plus quoi dire, donc je vais conclure sur le fait que vous pouvez me contacter sur :</p>
+<p>- Discord : Uplyx#3593</p>
+<p>- Mail : <a href="mailto:uplyxx@gmail.com">uplyxx@gmail.com</a></p>
+<p>Bonne visite du reste du site !</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Avez-vous l&#x27;ADHD Anarchiste ?</title>
         <author>

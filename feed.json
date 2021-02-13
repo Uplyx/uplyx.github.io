@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://Uplyx.github.io/uplyx.github.io/presentation-generale.html",
+            "url": "https://Uplyx.github.io/uplyx.github.io/presentation-generale.html",
+            "title": "Présentation générale",
+            "summary": "Bienvenue à vous sur mon site, First thing first, il faut que je me présente, je m'appelle Uplyx, Grégoire irl, et j'aime tout&hellip;",
+            "content_html": "<p>Bienvenue à vous sur mon site, </p>\n<p>First thing first, il faut que je me présente, je m'appelle Uplyx, Grégoire irl, et j'aime tout un tas de chose que vous pourrez retrouver sur ce site, de l'électroswing aux jeux vidéos en passant par la politique et la biologie, le tout abordé de manière assez peu sérieuse.</p>\n<p>Il est assez important de noter que je connais absolument rien au code, tout ce site n'est qu'un amas de C/C en tout genre donc si il merde un jour je sais pas si j'aurais les compétences (ou surtout la foi) pour le réparer.</p>\n<p>Je sais déjà plus quoi dire, donc je vais conclure sur le fait que vous pouvez me contacter sur :</p>\n<p>- Discord : Uplyx#3593</p>\n<p>- Mail : <a href=\"mailto:uplyxx@gmail.com\">uplyxx@gmail.com</a></p>\n<p>Bonne visite du reste du site !</p>",
+            "author": {
+                "name": "Uplyx"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-13T21:35:31+01:00",
+            "date_modified": "2021-02-13T21:36:57+01:00"
+        },
+        {
             "id": "https://Uplyx.github.io/uplyx.github.io/avez-vous-ladhd-anarchiste.html",
             "url": "https://Uplyx.github.io/uplyx.github.io/avez-vous-ladhd-anarchiste.html",
             "title": "Avez-vous l&#x27;ADHD Anarchiste ?",
