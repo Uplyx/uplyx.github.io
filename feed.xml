@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mes ptites conneries</title>
-    <link href="https://github.com/Uplyx/uplyx.github.io.git/feed.xml" rel="self" />
-    <link href="https://github.com/Uplyx/uplyx.github.io.git" />
+    <link href="https://Uplyx.github.io/uplyx.github.io/feed.xml" rel="self" />
+    <link href="https://Uplyx.github.io/uplyx.github.io" />
     <updated>2021-02-13T20:53:03+01:00</updated>
     <author>
         <name>Uplyx</name>
     </author>
-    <id>https://github.com/Uplyx/uplyx.github.io.git</id>
+    <id>https://Uplyx.github.io/uplyx.github.io</id>
 
     <entry>
         <title>piti test</title>
         <author>
             <name>Uplyx</name>
         </author>
-        <link href="https://github.com/Uplyx/uplyx.github.io.git/piti-test.html"/>
-        <id>https://github.com/Uplyx/uplyx.github.io.git/piti-test.html</id>
+        <link href="https://Uplyx.github.io/uplyx.github.io/piti-test.html"/>
+        <id>https://Uplyx.github.io/uplyx.github.io/piti-test.html</id>
 
         <updated>2021-02-13T20:53:03+01:00</updated>
             <summary></summary>
