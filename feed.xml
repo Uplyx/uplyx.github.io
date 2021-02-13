@@ -3,22 +3,10 @@
     <title>Mes ptites conneries</title>
     <link href="https://Uplyx.github.io/uplyx.github.io/feed.xml" rel="self" />
     <link href="https://Uplyx.github.io/uplyx.github.io" />
-    <updated>2021-02-13T20:53:03+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Uplyx</name>
     </author>
     <id>https://Uplyx.github.io/uplyx.github.io</id>
 
-    <entry>
-        <title>piti test</title>
-        <author>
-            <name>Uplyx</name>
-        </author>
-        <link href="https://Uplyx.github.io/uplyx.github.io/piti-test.html"/>
-        <id>https://Uplyx.github.io/uplyx.github.io/piti-test.html</id>
-
-        <updated>2021-02-13T20:53:03+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>

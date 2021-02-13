@@ -5,21 +5,10 @@
     "home_page_url": "https://Uplyx.github.io/uplyx.github.io",
     "feed_url": "https://Uplyx.github.io/uplyx.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://Uplyx.github.io/uplyx.github.io/media/website/638318-200.png",
     "author": {
         "name": "Uplyx"
     },
     "items": [
-        {
-            "id": "https://Uplyx.github.io/uplyx.github.io/piti-test.html",
-            "url": "https://Uplyx.github.io/uplyx.github.io/piti-test.html",
-            "title": "piti test",
-            "author": {
-                "name": "Uplyx"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-13T20:53:03+01:00",
-            "date_modified": "2021-02-13T20:53:03+01:00"
-        }
     ]
 }
