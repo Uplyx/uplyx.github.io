@@ -10,18 +10,16 @@
     },
     "items": [
         {
-            "id": "https://github.com/Uplyx/uplyx.github.io.git/test.html",
-            "url": "https://github.com/Uplyx/uplyx.github.io.git/test.html",
-            "title": "test",
-            "summary": " je fais juste un petit test de con&nbsp; ",
-            "content_html": "\n  <p>\n    je fais juste un petit test de con&nbsp;\n  </p>",
+            "id": "https://github.com/Uplyx/uplyx.github.io.git/piti-test.html",
+            "url": "https://github.com/Uplyx/uplyx.github.io.git/piti-test.html",
+            "title": "piti test",
             "author": {
                 "name": "Uplyx"
             },
             "tags": [
             ],
-            "date_published": "2021-02-13T20:46:23+01:00",
-            "date_modified": "2021-02-13T20:46:23+01:00"
+            "date_published": "2021-02-13T20:53:03+01:00",
+            "date_modified": "2021-02-13T20:53:03+01:00"
         }
     ]
 }

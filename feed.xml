@@ -3,33 +3,22 @@
     <title>Mes ptites conneries</title>
     <link href="https://github.com/Uplyx/uplyx.github.io.git/feed.xml" rel="self" />
     <link href="https://github.com/Uplyx/uplyx.github.io.git" />
-    <updated>2021-02-13T20:46:23+01:00</updated>
+    <updated>2021-02-13T20:53:03+01:00</updated>
     <author>
         <name>Uplyx</name>
     </author>
     <id>https://github.com/Uplyx/uplyx.github.io.git</id>
 
     <entry>
-        <title>test</title>
+        <title>piti test</title>
         <author>
             <name>Uplyx</name>
         </author>
-        <link href="https://github.com/Uplyx/uplyx.github.io.git/test.html"/>
-        <id>https://github.com/Uplyx/uplyx.github.io.git/test.html</id>
+        <link href="https://github.com/Uplyx/uplyx.github.io.git/piti-test.html"/>
+        <id>https://github.com/Uplyx/uplyx.github.io.git/piti-test.html</id>
 
-        <updated>2021-02-13T20:46:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                     je fais juste un petit test de con&nbsp; 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    je fais juste un petit test de con&nbsp;
-  </p>
-            ]]>
-        </content>
+        <updated>2021-02-13T20:53:03+01:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
